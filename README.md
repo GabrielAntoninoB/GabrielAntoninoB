@@ -1,19 +1,19 @@
 ## Introduction  
 Hi, my name is **Gabriel B. Antonino**, currently taking my **BS Information Technology** degree at **New Era University**.
 
---
+
 
 ## Education 
 - BS Information Technology -> New Era University 
 - High School -> NEW ERA HIGH SCHOOL
 
---
+
 ##  Certifications  
 -  
 -  
 -  
 
---
+
 
 ##  Language and Tools  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
