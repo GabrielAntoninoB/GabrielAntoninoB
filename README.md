@@ -1,5 +1,5 @@
 # Introduction  
-# Hi, my name is **Gabriel B. Antonino**, currently taking my **BS Information Technology** degree at **New Era University**.
+### Hi, my name is **Gabriel B. Antonino**, currently taking my **BS Information Technology** degree at **New Era University**.
 
 ---
 
